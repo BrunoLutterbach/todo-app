@@ -10,7 +10,7 @@
 </p>
 <hr>
 
-Projeto para cadastro de tarefas. Criado para fixar e botar em prática meus conhecimentos.
+Projeto de cadastro de tarefas. Criado para fixar e botar em prática meus conhecimentos.
 
 
 <details>
